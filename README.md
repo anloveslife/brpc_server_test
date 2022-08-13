@@ -1,1 +1,3 @@
 # brpc_server_test
+修改Makefile中brpc目录后
+执行make即可编译
